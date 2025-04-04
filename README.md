@@ -1,4 +1,4 @@
-# humidity_app
+# note_app
 
 A new Flutter project.
 
